@@ -4,7 +4,7 @@
 
 int main(){
 
-// hello
+
 
     bool comes_to_party[13];
 
