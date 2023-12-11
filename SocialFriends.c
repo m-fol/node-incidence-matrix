@@ -4,6 +4,8 @@
 
 int main(){
 
+// hello
+
     bool comes_to_party[13];
 
     char names[13][15]= {"Nikos","Lydia","Giannis","Eua","Manos","Petros","Akis","Eleni","Maria","Dimitris","Zoi","Alexandros","Anna"};
